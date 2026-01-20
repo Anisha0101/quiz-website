@@ -1,4 +1,5 @@
 // Registration function
+
 function register() {
     var username = document.getElementById('reg-username').value;
     var password = document.getElementById('reg-password').value;
